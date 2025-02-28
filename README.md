@@ -49,7 +49,7 @@ You are required to code and design the UI using Flutter based on the provided r
 
 1. **Clone the Repository**  
    ```bash
-   git clone [Your Repository URL Here]
+   git clone https://github.com/Er-Saroj/Webingo_task
    cd kolkata
    ```
 2. **Install Dependencies**  
