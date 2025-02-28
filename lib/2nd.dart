@@ -98,9 +98,11 @@ class _HomePageState extends State<Second_page> {
                                 Icon(
                                   Icons.location_on,
                                   size: 14,
+                                  color: Colors.white
                                 ),
                                 const Text(' Norway',
-                                    style: TextStyle(fontSize: 12)),
+                                    style: TextStyle(fontSize: 12,color: Colors.white
+                                    )),
                               ],
                             ),
                             Icon(Icons.person_pin,
@@ -116,6 +118,7 @@ class _HomePageState extends State<Second_page> {
                         child: Text(
                           'Hey, Martin! Tell us where you\nwant to go',
                           style: TextStyle(
+                            color: Colors.white,
                               fontSize: 20, fontWeight: FontWeight.w500),
                         ),
                       ),
